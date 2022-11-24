@@ -11,7 +11,7 @@ showFullContent = false
 readingTime = 1
 hideComments = false
 color = "" #color from the theme settings
-draft = false
+draft = true
 +++
 When I was a teenager me and some friends were obsessed with Sonic. We would play Sonic games in the woods & in the playground a school, we were not cool. We even designed levels and came up with new characters for games we hoped we might one day make.
 

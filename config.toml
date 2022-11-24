@@ -13,7 +13,7 @@ enableEmoji = true
   themeColor = "orange"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 5
 
   # show selector to switch language
   showLanguageSelector = false
@@ -53,6 +53,9 @@ enableEmoji = true
   # can be overridden in a page's front-matter
   # TocTitle = "Table of Contents" # default
 
+[social]
+twitter = "mattous"
+
 [params.twitter]
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
@@ -87,3 +90,7 @@ enableEmoji = true
         identifier = "showcase"
         name = "Showcase"
         url = "/showcase"
+      [[languages.en.menu.main]]
+        identifier = "twitter"
+        name = "Twitter"
+        url = "https://twitter.com/mattous"

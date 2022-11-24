@@ -1,8 +1,8 @@
 +++
 title = "Hello World"
 date = "2022-11-23T21:28:52Z"
-author = ""
-authorTwitter = "" #do not include @
+author = "mattous"
+authorTwitter = "mattous" #do not include @
 cover = ""
 tags = ["", ""]
 keywords = ["", ""]

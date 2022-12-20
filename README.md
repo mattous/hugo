@@ -1,6 +1,6 @@
 # mattous.tk
 
-This is the code that makes my blog/website work. 
+This is the code that makes my blog/website work. You can see the website here: [mattous.tk](https://mattous.tk)
 
 It's using the [Hugo](https://gohugo.io/) framework. 
 

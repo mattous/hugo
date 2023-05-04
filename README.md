@@ -24,4 +24,4 @@ Get the latest release from the [Terminal](https://github.com/panr/hugo-theme-te
 
 `git checkout TAG`
 
-Comit & push changes to repe
+Comit & push changes to repo

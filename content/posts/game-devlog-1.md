@@ -23,6 +23,6 @@ So funny mistakes have been made already, shooting gigantic fireballs that go no
 
 {{< figure src="fireballs.gif" alt="fireballs gone wrong" position="center" style="border-radius: 8px;" caption="fireballs gone wrong" captionStyle="color: black;" >}}
 
-I’ll be adding what I’ve made to [this repo](https://github.com/mattous/godot), mistakes and all. I’ve done the basics added a player, some mobs that respawn and chance you. Currently working on level generation, which has mostly been copied/pasted from a tutorial. The mobs no longer chase me around the map, but they are at least spawning now.
+I’ll be adding what I’ve made to [this repo](https://github.com/mattous/godot), mistakes and all. I’ve done the basics added a player, some mobs that respawn and chase you. Currently working on level generation, which has mostly been copied/pasted from a tutorial. The mobs no longer chase me around the map, but they are at least spawning now.
 
 It’s been a big learning curve for sure. I expect I’ll share some of what I learn along the way here. If anything I make actually turns into a full game, I’ll be pretty surprised. It’s really early days yet, but I do have a bunch of ideas about what sort of game I would make. I just need to figure out the basics first.

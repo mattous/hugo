@@ -1,0 +1,30 @@
++++
+title = "2023 Retrospective"
+date = "2024-01-14T23:59:59Z"
+author = "mattous"
+authorTwitter = "mattous" #do not include @
+cover = ""
+tags = ["retrospective", "blog"]
+keywords = ["", ""]
+description = ""
+showFullContent = false
+readingTime = 1
+hideComments = false
+color = "" #color from the theme settings
+draft = false
++++
+This year has been a difficult one, work has been rough, with redundancies looming over everything right from the start of the year, good friends losing their jobs, and many good people choosing to move on. I managed to completely avoid the redundancy process, though it did come with a lot of change. The IT Ops team I was in was disbanded and I was moved into a DevOps role in a dev team, which has been good but at times I’ve felt like not a lot has really changed other than my job title. I’ve learned a lot though and with the long term prospects of work looking like they were going to be very Salesforce focused, with the next 2-3 years moving towards retiring almost all our linux systems. I decided to start applying for jobs in the summer. 
+
+Through applying for jobs I realised some important things, I actually am missing quite a lot of skills that employers are looking for out in the market place. Specifically around public cloud skills, docker, Kubernetes, these are the skills people are looking for. I do have some experience with these technologies but not enough really to land a job, or so I thought. One key bit of feedback I had was that the way CAP does things is too ‘old school’. The impression I get is not a lot of organisations out there are doing manual deployments to single servers. This isn’t really new news to me, I wanted to move CAP to a more modernised infrastructure  for years but that takes time, and investment. Combine this with the organisations desire to move to platform based tech and retire our open source applications… well, the competing goals don’t really line up. 
+
+Then I got a job offer from DWP Digital for a DevOps engineer role. Following previous interviews I’d really not expected this to happen, but went through the interview for the experience. Following a very long process of getting various security checks done I’ve now actually expecting to get an actual offer from them in the coming weeks. I’m excited for what opportunities might come from this role, but also it’s hard to think of leaving CAP. Despite all the challenges over the last year it will still be hard to walk away from something that’s been part of my life for the last 14 years. I’m proud of what I’ve achieved in my time there (which likely warrants it’s own post), and while I’m leaving a lot of good people behind, and a lot of ideas unfinished, I still believe in the charity and all they stand for. 
+
+With the long lead time on DWP I started experimenting more with AWS and Terraform. I’ve enjoyed getting stuck into learning some new tech. I might of bitten off more than I could chew, trying to get a ECS cluster built with terraform has been a challenge, but that’s how I learn best. There’s a million courses out there that will teach you this stuff but I like to get hands on when it comes to learning. I like to learn by doing, by figuring something out for myself. Anyone can follow a guide, but when those guides don’t quite work anymore I like to work out why and find my own way though. I’m hoping to share some of what I’ve learned here. 
+
+My daughter started school this year, so now we have 2 children in school. She has taken to it really well, is happy to go and seems to be learning all that she needs to learn. She is a very different character to my son, who is in year 3 now and has struggled. He likes school once he’s there but getting him in can be a battle, we need to help him find the positives in it. He’s always happy when he comes home, and when he talks about his day it’s actually really positive. With both kids out of the house 5 days a week, my wife has started her art work again which has been great to see. I’ve built a website for her which is very basic at the moment but thats what she wanted. 
+
+We had another action packed summer, I started it by turning 40. Something that’s not really bothered me to be honest, I don’t feel like I should be 40. I still just feel like I did at 30. I have a bit more responsibly now sure, 2 kids to look after as well as a wife. I still feel like I always did though, like I’m going though life and working it out as I go. We spent a number of weeks camping in Filey again, and some time down south. One thing we need to make sure we build in is more time at home, the kids really value this, and so do I. We also now own a sailing boat, which we haven’t really spent much time on. Hopefully we’ll find more time to get out on her this year. 
+
+Gaming has been very light touch this year, my most played game was Stardew valley. I brought Balders Gate 3 when it came out but haven’t found much time for it, though I did really enjoy it when I did play. I write this now on a computer that we actually own as a family, this was a bit investment for us, but it felt right to not use the CAP laptop for personal reasons and combined with the CAP laptop going away sometime soon, it felt like the right time to be moving on. Natalie was, surprisingly, relatively easy to convince. 
+
+What does 2024 hold for me though? Well the big thing this year will be the new job, leaving CAP and starting a the DWP. It’s going to be a huge change to adjust to but one I’m excited about for sure, meeting new people, learning new ways of doing things and progressing in my career. I want to get back into learning game dev, which I haven’t touched this year. I want to write more on this blog. Time will tell how well that actually ends up going. So 2023… you sucked in many ways but there were some good times, here’s to 2024 being way better. 

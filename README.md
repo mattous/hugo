@@ -8,6 +8,20 @@ The current theme is [Terminal](https://github.com/panr/hugo-theme-terminal)
 
 It runs on [Cloudflare pages](https://pages.cloudflare.com/)
 
+## Running locally 
+
+### mac
+
+`brew install hugo`
+
+`git clone https://github.com/mattous/hugo.git`
+
+`cd mattous.tk`
+
+`hugo server`
+
+[http://localhost:1313]
+
 ## Updating hugo
 
 Check the latest version of [Hugo](https://github.com/gohugoio/hugo/releases) 

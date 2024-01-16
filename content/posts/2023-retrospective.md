@@ -1,6 +1,6 @@
 +++
 title = "2023 Retrospective"
-date = "2024-01-14T23:59:59Z"
+date = "2024-01-30T23:59:59Z"
 author = "mattous"
 authorTwitter = "mattous" #do not include @
 cover = ""
